@@ -3,4 +3,4 @@ Configuração mínima do webpack e babel realizada durante a aula Webpack e Bab
 
 ## Objetivo do Projeto
 
-Aprender como fazer uma configuração básica do webpack e do babel do zero.
+Aprender como fazer uma configuração básica do webpack e do babel do zero com React.
